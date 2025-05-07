@@ -1,0 +1,12 @@
+D:\Cursos\CursoJava-TodoCodeAcademy\05-SpringBoot\06-EjerciciosFinDeCurso\ClinicaVeterinaria-IntelliJ\src\main\java\com\bunshock\ClinicaVeterinaria_IntelliJ\ClinicaVeterinariaIntelliJApplication.java
+D:\Cursos\CursoJava-TodoCodeAcademy\05-SpringBoot\06-EjerciciosFinDeCurso\ClinicaVeterinaria-IntelliJ\src\main\java\com\bunshock\ClinicaVeterinaria_IntelliJ\controller\MascotaController.java
+D:\Cursos\CursoJava-TodoCodeAcademy\05-SpringBoot\06-EjerciciosFinDeCurso\ClinicaVeterinaria-IntelliJ\src\main\java\com\bunshock\ClinicaVeterinaria_IntelliJ\controller\PropietarioController.java
+D:\Cursos\CursoJava-TodoCodeAcademy\05-SpringBoot\06-EjerciciosFinDeCurso\ClinicaVeterinaria-IntelliJ\src\main\java\com\bunshock\ClinicaVeterinaria_IntelliJ\dto\MascotaPropDTO.java
+D:\Cursos\CursoJava-TodoCodeAcademy\05-SpringBoot\06-EjerciciosFinDeCurso\ClinicaVeterinaria-IntelliJ\src\main\java\com\bunshock\ClinicaVeterinaria_IntelliJ\model\Mascota.java
+D:\Cursos\CursoJava-TodoCodeAcademy\05-SpringBoot\06-EjerciciosFinDeCurso\ClinicaVeterinaria-IntelliJ\src\main\java\com\bunshock\ClinicaVeterinaria_IntelliJ\model\Propietario.java
+D:\Cursos\CursoJava-TodoCodeAcademy\05-SpringBoot\06-EjerciciosFinDeCurso\ClinicaVeterinaria-IntelliJ\src\main\java\com\bunshock\ClinicaVeterinaria_IntelliJ\repository\IMascotaRepository.java
+D:\Cursos\CursoJava-TodoCodeAcademy\05-SpringBoot\06-EjerciciosFinDeCurso\ClinicaVeterinaria-IntelliJ\src\main\java\com\bunshock\ClinicaVeterinaria_IntelliJ\repository\IPropietarioRepository.java
+D:\Cursos\CursoJava-TodoCodeAcademy\05-SpringBoot\06-EjerciciosFinDeCurso\ClinicaVeterinaria-IntelliJ\src\main\java\com\bunshock\ClinicaVeterinaria_IntelliJ\service\IMascotaService.java
+D:\Cursos\CursoJava-TodoCodeAcademy\05-SpringBoot\06-EjerciciosFinDeCurso\ClinicaVeterinaria-IntelliJ\src\main\java\com\bunshock\ClinicaVeterinaria_IntelliJ\service\IPropietarioService.java
+D:\Cursos\CursoJava-TodoCodeAcademy\05-SpringBoot\06-EjerciciosFinDeCurso\ClinicaVeterinaria-IntelliJ\src\main\java\com\bunshock\ClinicaVeterinaria_IntelliJ\service\MascotaService.java
+D:\Cursos\CursoJava-TodoCodeAcademy\05-SpringBoot\06-EjerciciosFinDeCurso\ClinicaVeterinaria-IntelliJ\src\main\java\com\bunshock\ClinicaVeterinaria_IntelliJ\service\PropietarioService.java

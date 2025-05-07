@@ -1,0 +1,12 @@
+com\bunshock\ClinicaVeterinaria_IntelliJ\service\PropietarioService.class
+com\bunshock\ClinicaVeterinaria_IntelliJ\service\IMascotaService.class
+com\bunshock\ClinicaVeterinaria_IntelliJ\controller\PropietarioController.class
+com\bunshock\ClinicaVeterinaria_IntelliJ\repository\IMascotaRepository.class
+com\bunshock\ClinicaVeterinaria_IntelliJ\service\IPropietarioService.class
+com\bunshock\ClinicaVeterinaria_IntelliJ\dto\MascotaPropDTO.class
+com\bunshock\ClinicaVeterinaria_IntelliJ\model\Propietario.class
+com\bunshock\ClinicaVeterinaria_IntelliJ\ClinicaVeterinariaIntelliJApplication.class
+com\bunshock\ClinicaVeterinaria_IntelliJ\service\MascotaService.class
+com\bunshock\ClinicaVeterinaria_IntelliJ\model\Mascota.class
+com\bunshock\ClinicaVeterinaria_IntelliJ\controller\MascotaController.class
+com\bunshock\ClinicaVeterinaria_IntelliJ\repository\IPropietarioRepository.class
